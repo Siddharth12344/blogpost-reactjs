@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<blog>
+	<post classname="bp1">
+		<date>Feb 1, 2019</date>
+		<author>Russell Brandom</author>
+		<title>How to protect humans in a fully automated society</title>
+		<summary>
+			<image_path>"C:\Users\siddh\Downloads\RRH.jpg"</image_path>
+			<text>What happens when every job is replaced by a machine?</text>
+		</summary>
+		<body>People have been worried about machines taking jobs for a very long time. As early as 1930, John Maynard Keynes was warning about the new scourge of technological unemployment, which he termed as “unemployment due to our discovery of means of economizing the use of labor outrunning the pace at which we can find new uses for labor.” In short, automating ourselves out of a paycheck.
+		The fear has only grown more powerful in the software age. In one recent story, a few automation upgrades ended up making 20 workers redundant at a small 3D-modeling company. A recent McKinsey study estimated that as many as half of current jobs could be automated, and predicted 400 million jobs worldwide will be automated into nothingness by 2030.
+		Set against the backdrop of continuous AI improvements, the picture seems simple enough: machines get a little more capable every day, and every extra bit of intelligence brings a few more jobs within reach of automation. But the reality is more complex, operating at a far larger scale. In most cases, we’re not automating individual jobs but entire industries, as we meet more of our needs through massively scalable software.
+		It’s a huge shift in the way society works, and it doesn’t have to be a bad one. We just have to look at the big picture.
+		</body>
+	</post>
+	<post classname="bp2">
+		<date>Nov 15, 2017</date>
+		<author>James Vincent</author>
+		<title>AI could be the perfect tool for exploring the Universe</title>
+		<summary>
+			<image_path>"C:\Users\siddh\Downloads\universe.jpg"</image_path>
+			<text>THE AI EXAMINED 21,789 PICTURES IN JUST 20 MINUTES</text>
+		</summary>
+		<body>
+		In our efforts to understand the Universe, we’re getting greedy, making more observations than we know what to do with. Satellites beam down hundreds of terabytes of information each year, and one telescope under construction in Chile will produce 15 terabytes of pictures of space every night. It’s impossible for humans to sift through it all. As astronomer Carlo Enrico Petrillo told The Verge: “Looking at images of galaxies is the most romantic part of our job. The problem is staying focused.” That’s why Petrillo trained an AI program to do the looking for him.
+		Petrillo and his colleagues were searching for a phenomenon that’s basically a space telescope. When a massive object (a galaxy or a black hole) comes between a distant light source and an observer on Earth, it bends the space and light around it, creating a lens that gives astronomers a closer look at incredibly old, distant parts of the Universe that should be blocked from view. This is called a gravitational lens, and these lenses are key to understanding what the Universe is made of. So far, though, finding them has been slow and tedious work.
+		That’s where artificial intelligence comes in — and finding gravitational lenses is just the start. As Stanford professor Andrew Ng once put it, the capacity of AI is being able to automate anything “a typical person can do [...] with less than one second of thought.” Less than a second doesn’t sound like much room for thinking, but when it comes to sifting through the vast amounts of data created by contemporary astronomy, it’s a godsend.
+		This wave of AI astronomers aren’t just thinking how this technology can sort data. They’re exploring what could be an entirely new mode of scientific discovery, where artificial intelligence maps out the parts of the Universe we’ve never even seen.
+		</body>
+	</post>
+	<post classname="bp3">
+		<date>Jan 31, 2019</date>
+		<author>Sam Byford</author>
+		<title>How AI is changing photography</title>
+		<summary>
+			<image_path>"C:\Users\siddh\Downloads\aiphoto.jpg"</image_path>
+			<text>Suddenly, or so it seemed, Google knew what your cat looked like.</text>
+		</summary>
+		<body>
+		If you’re wondering how good your next phone’s camera is going to be, it’d be wise to pay attention to what the manufacturer has to say about AI. Beyond the hype and bluster, the technology has enabled staggering advances in photography over the past couple of years, and there’s no reason to think that progress will slow down.
+		There are still a lot of gimmicks around, to be sure. But the most impressive recent advancements in photography have taken place at the software and silicon level rather than the sensor or lens — and that’s largely thanks to AI giving cameras a better understanding of what they’re looking at.
+		Google built on the previous work of a 2013 acquisition, DNNresearch, by setting up a deep neural network trained on data that had been labeled by humans. This is called supervised learning; the process involves training the network on millions of images so that it can look for visual clues at the pixel level to help identify the category. Over time, the algorithm gets better and better at recognizing, say, a panda, because it contains the patterns used to correctly identify pandas in the past. It learns where the black fur and white fur tend to be in relation to one another, and how it differs from the hide of a Holstein cow, for example. With further training, it becomes possible to search for more abstract terms such as “animal” or “breakfast,” which may not have common visual indicators but are still immediately obvious to humans.
+		It takes a lot of time and processing power to train an algorithm like this, but after the data centers have done their thing, it can be run on low-powered mobile devices without much trouble. The heavy-lifting work has already been done, so once your photos are uploaded to the cloud, Google can use its model to analyze and label the whole library. About a year after Google Photos was launched, Apple announced a photo search feature that was similarly trained on a neural network, but as part of the company’s commitment to privacy the actual categorization is performed on each device’s processor separately without sending the data. This usually takes a day or two and happens in the background following setup.
+		</body>
+	</post>
+	
+	
+</blog>
